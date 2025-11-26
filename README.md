@@ -1,4 +1,4 @@
-![](https://github.com/Sahibealam2003/Sahibealam2003/blob/main/663e6d0b-4211-4c5c-bcbc-f43e978df537.png)
+![](https://github.com/Sahibealam2003/Sahibealam2003/blob/main/Black%20Modern%20Personal%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Sahib e Alam</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
