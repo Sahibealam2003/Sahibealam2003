@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Next.js, Mongodb, Express**
 
-- 👨‍💻 All of my projects are available at [sahibealamportfolio.netlify.app](sahibealamportfolio.netlify.app)
+- 👨‍💻 All of my projects are available at [https://sahibealamportfolio.netlify.app/](https://sahibealamportfolio.netlify.app/)
 
 - 📫 How to reach me **alamsahib9719@gmail.com**
 
