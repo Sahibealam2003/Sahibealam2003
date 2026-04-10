@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sahib e Alam</h1>
 <h3 align="center">A passionate Full Stack Developer(MERN) from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sahibealam2003&label=Profile%20views&color=0e75b6&style=flat" alt="sahibealam2003" /> </p>
+<p align="left"> <img src="https://sahibealamportfolio.netlify.app/" alt="sahibealam2003" /> </p>
 
 - 🌱 I’m currently learning **Cloud Platforms**
 
