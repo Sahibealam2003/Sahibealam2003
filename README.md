@@ -2,11 +2,9 @@
 <h1 align="center">Hi 👋, I'm Sahib e Alam</h1>
 <h3 align="center">A passionate Full Stack Developer(MERN) from India</h3>
 
-<p align="left"> <img src="https://sahibealamportfolio.netlify.app/" alt="sahibealam2003" /> </p>
-
 - 🌱 I’m currently learning **Cloud Platforms**
 
-- 👨‍💻 All of my projects are available at [sahibealamportfolio.netlify.app](sahibealamportfolio.netlify.app)
+- 👨‍💻 All of my projects are available at [sahibealamportfolio.netlify.app](https://sahibealamportfolio.netlify.app/)
 
 - 📫 How to reach me **alamsahib9719@gmail.com**
 
